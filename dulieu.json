@@ -1,0 +1,107 @@
+[
+    {
+        "mssv": "ps123",
+        "ten": "Nguyen Van A",
+        "diemtb": 7.5
+    },
+    {
+        "mssv": "ps1234",
+        "ten": "Ly Thi B",
+        "diemtb": 6.5
+    },
+    {
+        "mssv": "ps4567",
+        "ten": "Ta Van Thanh",
+        "diemtb": 8.5
+    },
+    {
+        "mssv": "ps789",
+        "ten": "kiet",
+        "diemtb": 8.2
+    },
+    {
+        "mssv": "ps789",
+        "ten": "kiet",
+        "diemtb": 8.2
+    },
+    {
+        "mssv": "ps1999",
+        "ten": "KHAI",
+        "diemtb": 9
+    },
+    {
+        "mssv": "PSABCD",
+        "ten": "Dung",
+        "diemtb": 9.2
+    },
+    {
+        "mssv": "PS8888",
+        "ten": "Nam",
+        "diemtb": 7.2
+    },
+    {
+        "mssv": "PSWEB",
+        "ten": "Qui",
+        "diemtb": "8.7"
+    },
+    {
+        "mssv": "ps1999",
+        "ten": "kiet",
+        "diemtb": "8.0"
+    },
+    {
+        "mssv": "DCTWEB",
+        "ten": "Do Mixi",
+        "diemtb": "10"
+    },
+    {
+        "mssv": "39208",
+        "ten": "Thuy",
+        "diemtb": "8.8"
+    },
+    {
+        "mssv": "40037",
+        "ten": "Nhu Y",
+        "diemtb": "7"
+    },
+    {
+        "mssv": "410032",
+        "ten": "Nhat",
+        "diemtb": "5.5"
+    },
+    {
+        "mssv": "PS9999",
+        "ten": "Duy Th\u00e1i",
+        "diemtb": "7.4"
+    },
+    {
+        "mssv": "WEB",
+        "ten": "Minh",
+        "diemtb": "8.8"
+    },
+    {
+        "mssv": "WEBDV",
+        "ten": "Ph\u00fac",
+        "diemtb": "8.9"
+    },
+    {
+        "mssv": "HHHHHH",
+        "ten": "M\u1ea1nh Th\u1ecb B",
+        "diemtb": "5.5"
+    },
+    {
+        "mssv": "WEB2024",
+        "ten": "Ly Van C",
+        "diemtb": "5.2"
+    },
+    {
+        "mssv": "PS101010",
+        "ten": "Ha Van Cu",
+        "diemtb": "9.0"
+    },
+    {
+        "mssv": "WEB108",
+        "ten": "Nh\u00e2m M\u1ea1nh D\u0169ng",
+        "diemtb": "7.5"
+    }
+]
